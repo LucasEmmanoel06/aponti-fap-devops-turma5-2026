@@ -26,6 +26,7 @@ Após o merge, seu nome será adicionado automaticamente à lista de integrantes
 | <img src="https://github.com/DiegoSouzaTech.png" width="50"> | Diego Kauã | [@DiegoSouzaTech](https://github.com/DiegoSouzaTech) | Recife-PE | [Perfil](https://www.linkedin.com/in/diego-souza-411bb8359/) |
 | <img src="https://github.com/ellenyass.png" width="50"> | Ellen Nunes | [@ellenyass](https://github.com/ellenyass) | Olinda | [Perfil](https://www.linkedin.com/in/ellen-nunes-40b6b524a/) |
 | <img src="https://github.com/egondimjraws.png" width="50"> | Emanuel Gondim | [@egondimjraws](https://github.com/egondimjraws) | Recife | [Perfil](https://linkedin.com/in/emanuelgondim) |
+| <img src="https://github.com/Felipe-Sabino-d-Oliveira.png" width="50"> | Felipe Sabino | [@Felipe-Sabino-d-Oliveira](https://github.com/Felipe-Sabino-d-Oliveira) | Recife | [Perfil](www.linkedin.com/in/felipe-sabino-de-oliveira) |
 | <img src="https://github.com/fililpe.png" width="50"> | Filipe Sousa | [@fililpe](https://github.com/fililpe) | Recife | [Perfil](https://linkedin.com/in/luizfilipesousa) |
 | <img src="https://github.com/Gabriel-Garabedian.png" width="50"> | Gabriel da SilvaDer Garabedian | [@Gabriel-Garabedian](https://github.com/Gabriel-Garabedian) | Jaboatõa dos Guararapes  | [Perfil](https://www.linkedin.com/in/garabedi4n) |
 | <img src="https://github.com/gavvdev.png" width="50"> | Gabriela Pires | [@gavvdev](https://github.com/gavvdev) | Janga, Paulista | [Perfil](https://linkedin.com/in/gabriela-pires-7787b6279) |
@@ -52,8 +53,8 @@ Após o merge, seu nome será adicionado automaticamente à lista de integrantes
 ## Estatísticas
 
 <!-- ESTATISTICAS-INICIO -->
-Total de alunos cadastrados: 26
+Total de alunos cadastrados: 27
 
-Última atualização: 24/07/2026, 20:07
+Última atualização: 24/07/2026, 20:08
 
 <!-- ESTATISTICAS-FIM -->
