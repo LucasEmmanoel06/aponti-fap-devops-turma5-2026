@@ -42,6 +42,7 @@ Após o merge, seu nome será adicionado automaticamente à lista de integrantes
 | <img src="https://github.com/Ovat1o.png" width="50"> | Otávio Leão | [@Ovat1o](https://github.com/Ovat1o) | Recife | [Perfil](https://linkedin.com/in/otaviosleao) |
 | <img src="https://github.com/PedroDelmiro13.png" width="50"> | Pedro Delmiro | [@PedroDelmiro13](https://github.com/PedroDelmiro13) | Jaboatão dos Guararapes | [Perfil](https://linkedin.com/in/pedrodelmiro) |
 | <img src="https://github.com/ph95583faculdade-maker.png" width="50"> | Pedro Henrique | [@ph95583faculdade-maker](https://github.com/ph95583faculdade-maker) | Recife | [Perfil](https://www.linkedin.com/in/pedro-h-lima) |
+| <img src="https://github.com/ricardosantanadev4.png" width="50"> | Ricardo Santana | [@ricardosantanadev4](https://github.com/ricardosantanadev4) | Recife | [Perfil](https://www.linkedin.com/in/ricardo-santana-08b91829b/) |
 | <img src="https://github.com/talescavalcanti.png" width="50"> | Tales Cavalcanti | [@talescavalcanti](https://github.com/talescavalcanti) | Jaboatão dos Guararapes | [Perfil](https://linkedin.com/in/tales-cavalcantii) |
 | <img src="https://github.com/victorjls21.png" width="50"> | Victor Julius | [@victorjls21](https://github.com/victorjls21) | Olinda | [Perfil](https://linkedin.com/in/victor-julius) |
 | <img src="https://github.com/VitorJunior60.png" width="50"> | Vitor Marques | [@VitorJunior60](https://github.com/VitorJunior60) | Recife | [Perfil](www.linkedin.com/in/vitor-marques-3b1098368) |
@@ -51,8 +52,8 @@ Após o merge, seu nome será adicionado automaticamente à lista de integrantes
 ## Estatísticas
 
 <!-- ESTATISTICAS-INICIO -->
-Total de alunos cadastrados: 25
+Total de alunos cadastrados: 26
 
-Última atualização: 24/06/2026, 22:21
+Última atualização: 24/07/2026, 20:07
 
 <!-- ESTATISTICAS-FIM -->
