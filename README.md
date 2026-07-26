@@ -57,6 +57,6 @@ Após o merge, seu nome será adicionado automaticamente à lista de integrantes
 <!-- ESTATISTICAS-INICIO -->
 Total de alunos cadastrados: 29
 
-Última atualização: 26/07/2026, 10:22
+Última atualização: 26/07/2026, 10:24
 
 <!-- ESTATISTICAS-FIM -->
