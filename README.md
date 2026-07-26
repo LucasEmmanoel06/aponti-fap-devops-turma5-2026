@@ -36,6 +36,7 @@ Após o merge, seu nome será adicionado automaticamente à lista de integrantes
 | <img src="https://github.com/lucas-henriquedias.png" width="50"> | Lucas Henrique Dias de Medeiros | [@lucas-henriquedias](https://github.com/lucas-henriquedias) | Jaboatão dos Guararapes | [Perfil](https://www.linkedin.com/in/lucas-henrique-dias-345666346/) |
 | <img src="https://github.com/https://github.com/LucasMadureiro.png" width="50"> | Lucas Madureiro | [@https://github.com/LucasMadureiro](https://github.com/https://github.com/LucasMadureiro) | Paulista | [Perfil](https://www.linkedin.com/in/lucas-madureiro-matias-6946a8277/) |
 | <img src="https://github.com/felipeGTBR.png" width="50"> | Luiz Felipe | [@felipeGTBR](https://github.com/felipeGTBR) | Jaboatão | [Perfil](https://linkedin.com/in/luiz-felipe-ti) |
+| <img src="https://github.com/Mariana-ASM.png" width="50"> | Mariana Monteiro | [@Mariana-ASM](https://github.com/Mariana-ASM) | Recife | [Perfil](https://linkedin.com/in/mariana-asm-tec) |
 | <img src="https://github.com/miltonmaglhaesv.png" width="50"> | Milton Magalhães | [@miltonmaglhaesv](https://github.com/miltonmaglhaesv) | Recife | [Perfil](https://linkedin.com/in/miltonmagalhaesv) |
 | <img src="https://github.com/miqueias-eduardo.png" width="50"> | Miqueias Eduardo | [@miqueias-eduardo](https://github.com/miqueias-eduardo) | Jaboatão dos Guararapes | [Perfil](https://www.linkedin.com/in/miqueias-eduardo) |
 | <img src="https://github.com/nk-medeiros.png" width="50"> | Nayara Karla Medeiros da Silva | [@nk-medeiros](https://github.com/nk-medeiros) | Jaboatão dos Guararapes | - |
@@ -54,8 +55,8 @@ Após o merge, seu nome será adicionado automaticamente à lista de integrantes
 ## Estatísticas
 
 <!-- ESTATISTICAS-INICIO -->
-Total de alunos cadastrados: 28
+Total de alunos cadastrados: 29
 
-Última atualização: 24/07/2026, 20:10
+Última atualização: 26/07/2026, 10:14
 
 <!-- ESTATISTICAS-FIM -->
