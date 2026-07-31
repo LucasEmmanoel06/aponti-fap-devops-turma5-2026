@@ -1,0 +1,25 @@
+{
+  "name": "projetoscripttestes",
+  "version": "1.0.0",
+  "description": "Repositório colaborativo da turma para prática de Git, GitHub, Branches, Commits, Pull Requests e GitHub Actions.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs",
+    "test": "tests"
+  },
+  "scripts": {
+  "test": "node --test"
+},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LucasEmmanoel06/aponti-fap-devops-turma5-2026.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/LucasEmmanoel06/aponti-fap-devops-turma5-2026/issues"
+  },
+  "homepage": "https://github.com/LucasEmmanoel06/aponti-fap-devops-turma5-2026#readme"
+}
