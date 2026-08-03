@@ -14,3 +14,4 @@ Nesta etapa foi realizada a classificação dos testes automatizados do projeto 
 | **T08 - LinkedIn ausente**       | **Regressão** | Garante que a geração da tabela continue tratando corretamente campos opcionais.                                                |
 | **T09 - Cidade ausente**         | **Regressão** | Garante que a tabela continue sendo gerada corretamente quando a cidade estiver ausente.                                        |
 | **T10 - Atualização do README**  | **Smoke**     | Verifica que o fluxo principal do script consegue atualizar o README, conforme o exemplo fornecido no enunciado.                |
+
